@@ -1,5 +1,5 @@
 import com.android.build.gradle.BaseExtension
-import com.limprove.finn.withVersionCatalog
+import studio.xleb.infra.withVersionCatalog
 
 configure<BaseExtension> {
 
