@@ -1,4 +1,4 @@
-import com.limprove.finn.withVersionCatalog
+import studio.xleb.infra.withVersionCatalog
 
 plugins {
     id("com.android.application")
